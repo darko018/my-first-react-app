@@ -1,11 +1,11 @@
-.header {
-    background-color: red;
-    color:white;
+.main-header {
+    background-color: rgba(241, 42, 42, 0.747);
+    color: white;
     text-align: center;
-    font-weight: bold;
-    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
-p {
+h1 {
     margin: 0;
+    padding: 10px;
 }

@@ -1,23 +1,22 @@
-export const blogPosts = [ 
+export const blogData = [
     {
-        title: 'Title 1',
-        body: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        title: "First blog post",
+        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus massa, pulvinar ac mauris quis, ultrices aliquam arcu. Vestibulum ut semper turpis, ut venenatis mauris. Nam accumsan maximus nibh, eget commodo lectus molestie eget. Vestibulum eu mollis elit. Integer et orci sit amet tortor porttitor sodales sit amet ac ex."
     },
     {
-        title: 'Title 2',
-        body: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        title: "Second blog post",
+        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus massa, pulvinar ac mauris quis, ultrices aliquam arcu. Vestibulum ut semper turpis, ut venenatis mauris. Nam accumsan maximus nibh, eget commodo lectus molestie eget. Vestibulum eu mollis elit. Integer et orci sit amet tortor porttitor sodales sit amet ac ex."
     },
     {
-        title: 'Title 3',
-        body: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        title: "Third blog post",
+        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus massa, pulvinar ac mauris quis, ultrices aliquam arcu. Vestibulum ut semper turpis, ut venenatis mauris. Nam accumsan maximus nibh, eget commodo lectus molestie eget. Vestibulum eu mollis elit. Integer et orci sit amet tortor porttitor sodales sit amet ac ex."
     },
     {
-        title: 'Title 4',
-        body: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        title: "Forth blog post",
+        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus massa, pulvinar ac mauris quis, ultrices aliquam arcu. Vestibulum ut semper turpis, ut venenatis mauris. Nam accumsan maximus nibh, eget commodo lectus molestie eget. Vestibulum eu mollis elit. Integer et orci sit amet tortor porttitor sodales sit amet ac ex."
     },
     {
-        title: 'Title 5',
-        body: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
-
-];
+        title: "Fifth blog post",
+        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus massa, pulvinar ac mauris quis, ultrices aliquam arcu. Vestibulum ut semper turpis, ut venenatis mauris. Nam accumsan maximus nibh, eget commodo lectus molestie eget. Vestibulum eu mollis elit. Integer et orci sit amet tortor porttitor sodales sit amet ac ex."
+    }
+]

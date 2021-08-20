@@ -1,13 +1,13 @@
-import React from 'react';
+import React from "react";
 
-import './Header.css'
+import "./Header.css";
 
-const Header = () => (
-    <nav className="navbar header">
-        <div className="container-fluid">
-            <span className="navbar-brand mb-0 h1 text-center">My React Blog</span>
-        </div>
-    </nav>
-)
+const Header = () => {
+    return (
+        <nav className="main-header">
+            <h1>My React Blog</h1>
+        </nav>
+    )
+}
 
 export { Header };
