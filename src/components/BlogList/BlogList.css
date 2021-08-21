@@ -8,4 +8,14 @@
     margin: 10px 0;
     padding: 10px;
   }
-  
+
+button {
+  background-color: rgb(245,96,96);
+  color: white;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+input {
+  border-radius: 5px;
+}
