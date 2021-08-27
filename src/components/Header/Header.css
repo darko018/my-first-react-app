@@ -1,11 +1,24 @@
-.main-header {
+
+.navbar-header {
     background-color: rgba(241, 42, 42, 0.747);
-    color: white;
+
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    
+ }
+
+ nav ul {
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding: 0;
 }
 
-h1 {
-    margin: 0;
+ul li {
+    display: inline-block;
     padding: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
 }

@@ -1,0 +1,11 @@
+.single-blog-container {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.blogItem {
+    background-color: grey;
+    color: white;
+    margin: 10px 0;
+    padding: 10px;
+  }

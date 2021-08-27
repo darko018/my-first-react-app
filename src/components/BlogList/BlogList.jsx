@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import { getBlogs } from "../../services/blogService";
 
 import './BlogList.css'
@@ -39,7 +40,7 @@ export const BlogList = () => {
                <div className='blogItem' key={index}>
                    <h2>{post.title}</h2>
                    <p>{post.body}</p>
-
+                   <Link to={ `/blog/${post.id}` }>Read More...</Link>
                </div>
             ))}
         </div>
